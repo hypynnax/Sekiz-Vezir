@@ -1,0 +1,9 @@
+C:\Users\hypyn\source\repos\Satranç\Satranç\bin\Debug\Satranç.exe.config
+C:\Users\hypyn\source\repos\Satranç\Satranç\bin\Debug\Satranç.exe
+C:\Users\hypyn\source\repos\Satranç\Satranç\bin\Debug\Satranç.pdb
+C:\Users\hypyn\source\repos\Satranç\Satranç\obj\Debug\Satranç.satrancTahtasi.resources
+C:\Users\hypyn\source\repos\Satranç\Satranç\obj\Debug\Satranç.Properties.Resources.resources
+C:\Users\hypyn\source\repos\Satranç\Satranç\obj\Debug\Satranç.csproj.GenerateResource.cache
+C:\Users\hypyn\source\repos\Satranç\Satranç\obj\Debug\Satranç.csproj.CoreCompileInputs.cache
+C:\Users\hypyn\source\repos\Satranç\Satranç\obj\Debug\Satranç.exe
+C:\Users\hypyn\source\repos\Satranç\Satranç\obj\Debug\Satranç.pdb
